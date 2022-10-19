@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @angelrod
+- 👋 Hi, I’m @angelr1076
 - 👀 I’m interested in programming, cooking and classic gaming
 - 🌱 I’m currently learning backend stuff
 - 📫 How to reach me angelrod@beachlife.email or https://www.angelrod.dev
