@@ -4,6 +4,7 @@
 - 🌱 Always learning more about JavaScript and its paradigms
 - 📫 Reach me @ angelrod@beachlife.email
 - 🌐 My website: https://www.angelrod.dev
+
 [![LinkedIn](https://res.cloudinary.com/angelrodriguez/image/upload/v1667579081/Email%20Github%20Icons/Linked_in.png)](https://www.linkedin.com/in/angelrodriguezlead/)  
 [![Github](https://res.cloudinary.com/angelrodriguez/image/upload/v1667579081/Email%20Github%20Icons/Github.png)](https://github.com/angelr1076)
 [![Website](https://res.cloudinary.com/angelrodriguez/image/upload/v1667579081/Email%20Github%20Icons/Website.png)](https://angelrod.dev/)
