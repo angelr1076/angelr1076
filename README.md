@@ -25,7 +25,7 @@
 
 <p align="center">
   <img alt="Angel's GitHub Stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
-  <img alt="Angel's GitHub Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=5">
+  <img alt="Angel's GitHub Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=7">
 </p>
 
 <!---
