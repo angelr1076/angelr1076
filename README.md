@@ -23,6 +23,11 @@
 🌱  Always learning more about JavaScript and its paradigms  
 📫  Reach me @ angelrod@beachlife.email
 
+<p align="center">
+  <img alt="Angel's GitHub Stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
+  <img alt="Angel's GitHub Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=5">
+</p>
+
 <!---
 angelr1076/angelr1076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
