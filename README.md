@@ -17,8 +17,8 @@
 ## 👋 Hi, I’m Angel  
 - 💻  App developer  
 - 👀  Interested in programming, cooking and classic gaming  
-- 🌱  Always learning more about JavaScript and its paradigms  
-- 📫  Reach me @ angelrod@beachlife.email
+- 🌱  Always interested in learning more about JavaScript and its paradigms  
+- 📫  You can reach me @ angelrod@beachlife.email
 
 <p align="center">
   <img alt="Angel's GitHub Stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
