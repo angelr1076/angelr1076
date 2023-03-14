@@ -1,14 +1,14 @@
 <p align="center">
-  <a href="https://www.angelrod.dev/">
+  <a href="https://www.angelrod.dev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
   </a>
-  <a href="https://www.linkedin.com/in/angelrodriguezlead/">
+  <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/linkedin.png" alt="linkedin">
   </a>
-  <a href="https://github.com/angelr1076">
+  <a href="https://github.com/angelr1076" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/github.png" alt="github">
   </a>
-  <a href="mailto:angelrod@beachlife.email">
+  <a href="mailto:angelrod@beachlife.email" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/email.png" alt="email">
   </a>
 </p>
