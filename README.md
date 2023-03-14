@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.angelrod.dev/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
+  <a href="https://www.angelrod.dev/">
+    <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/linkedin.png" alt="linkedin">
