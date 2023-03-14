@@ -16,7 +16,7 @@
 
 ## 👋 Hi, I’m Angel  
 - 💻  App developer  
-- ♥️  Love programming, cooking and classic gaming  
+- ♥️  Love Jesus, family, programming, cooking and classic gaming  
 - 🌱  Always interested in learning more about JavaScript and its paradigms  
 - 📫  You can reach me @ angelrod@beachlife.email
 
