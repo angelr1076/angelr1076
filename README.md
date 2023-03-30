@@ -14,7 +14,7 @@
 </p>
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
 
-## 👋 Hi, I’m Angel  
+## <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png"> Angel Rodriguez
 - 💻  App developer  
 - ♥️  Love Jesus, family, programming, cooking and classic gaming  
 - 🌱  Always interested in learning more about JavaScript and its paradigms  
