@@ -1,3 +1,6 @@
+
+
+# <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png"> Angel Rodriguez
 <p align="center">
   <a href="https://www.angelrod.dev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
@@ -14,7 +17,6 @@
 </p>
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
 
-# <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png"> Angel Rodriguez
 - 💻  App developer  
 - ♥️  Love Jesus, family, programming, cooking and classic gaming  
 - 🌱  Always interested in learning more about JavaScript and its paradigms  
