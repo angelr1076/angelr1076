@@ -1,6 +1,9 @@
 
 
-# <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png"> Angel Rodriguez
+#  Angel Rodriguez 
+<p align="center">
+<img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png">
+  </p>
 
 <p align="center">
   <a href="https://www.angelrod.dev/" target="_blank">
