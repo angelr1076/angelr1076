@@ -1,7 +1,7 @@
 
-<p align="center">
+
   <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png"> # Angel Rodriguez
-</p>
+
 <p align="center">
   <a href="https://www.angelrod.dev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
