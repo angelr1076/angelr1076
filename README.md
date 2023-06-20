@@ -22,7 +22,6 @@
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
 
 - 💻  App developer  
-- ♥️  Love Jesus, family, programming, cooking and classic gaming  
 - 🌱  Always interested in learning more about JavaScript and its paradigms  
 - 📫  You can reach me @ angelrod@beachlife.email
 
