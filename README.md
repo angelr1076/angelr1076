@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <!-- Add more languages and tools here -->
 </p>
-<ul>
+<ul align="center">
 <li>💻 I'm an app developer, transforming ideas into digital reality.</li>
 <li>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</li>
 <li>🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email</li>
