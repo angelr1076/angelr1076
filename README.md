@@ -26,9 +26,9 @@
   <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <!-- Add more languages and tools here -->
 </p>
-💻 I'm an app developer, transforming ideas into digital reality.
-🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.
-🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email
+- 💻 I'm an app developer, transforming ideas into digital reality.
+- 🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.
+- 🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email
 <p align="center">
   <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
   <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
