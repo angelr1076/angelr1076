@@ -23,7 +23,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/REST%20APIs%-blue" alt="Restful APIs"/>
   <!-- Add more languages and tools here -->
 </p>
 <h3 align="center">About:</h3>
