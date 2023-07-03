@@ -1,10 +1,9 @@
-
-
-#  Angel Rodriguez 
+<h1 align="center">👋 Angel Rodriguez</h1>
+<p align="center">Making a difference one app at a time 🚀</p>
 <p align="center">
-<img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png">
-  </p>
-
+<img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png" width="150">
+</p>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.angelrod.dev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
@@ -20,17 +19,17 @@
   </a>
 </p>
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
-
-- 💻  App developer  
-- 🌱  Always interested in learning more about JavaScript and its paradigms  
-- 📫  You can reach me @ angelrod@beachlife.email
-
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img alt="Angel's GitHub Stats" height="210px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
-  <img alt="Angel's GitHub Langs" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <!-- Add more languages and tools here -->
 </p>
-
-<!---
-angelr1076/angelr1076 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I'm an app developer, transforming ideas into digital reality.
+🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.
+🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email
+<p align="center">
+  <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
+  <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
+</p>
