@@ -27,10 +27,10 @@
   <!-- Add more languages and tools here -->
 </p>
 <h3 align="center">About:</h3>
-<ul>
-<li align="center">💻 I'm an app developer, transforming ideas into digital reality.</li>
-<li align="center">🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</li>
-<li align="center">🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email</li>
+<ul style="text-align:left;">
+<li>💻 I'm an app developer, transforming ideas into digital reality.</li>
+<li>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</li>
+<li>🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email</li>
 </ul>
 <p align="center">
   <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
