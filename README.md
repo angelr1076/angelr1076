@@ -19,11 +19,11 @@
   </a>
 </p>
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
-<h3>🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-green?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"  align="center"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React" align="center"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-green?style=for-the-badge&logo=api&logoColor=white" alt="REST APIs"  align="center"/ >
   <!-- Add more languages and tools here -->
 </p>
 <h3>About:</h3>
