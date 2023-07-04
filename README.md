@@ -27,7 +27,7 @@
   <!-- Add more languages and tools here -->
 </p>
 <h3 align="center">About:</h3>
-<div style="text-align:center;">
+<div>
   <p>💻 I'm an app developer, transforming ideas into digital reality.</p>
   <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
   <p>🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email</p>
