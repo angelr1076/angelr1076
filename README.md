@@ -19,7 +19,7 @@
   </a>
 </p>
 <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3>🛠️ Languages and Tools:</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
