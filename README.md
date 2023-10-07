@@ -33,4 +33,8 @@
     <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
     <p>🌴 Let's connect and build something awesome, reach me @ angelrod@beachlife.email</p>
   </div>
+  <p>
+    <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
+  </p>![image](https://github.com/angelr1076/angelr1076/assets/29229469/de6ec3d3-ac77-41d0-a859-6bbbad5bbd17)
+
 </div>
