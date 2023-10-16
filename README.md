@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
   <h1>👋 Angel Rodriguez</h1>
   <p>Making a difference one app at a time 🚀</p>
   <p>
