@@ -27,12 +27,11 @@
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <!-- Add more languages and tools here -->
   </p>
-</div>
-<div>
-  <h3 align="center">About:</h3>
+  <h3>About:</h3>
   <div>
     <p>💻 I'm an app developer, transforming ideas into digital reality.</p>
     <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
     <p>🌴 Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
   </div>
 </div>
+
