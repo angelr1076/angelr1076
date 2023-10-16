@@ -29,7 +29,7 @@
   </p>
 </div>
 <div>
-  <h3>About:</h3>
+  <h3 align="center">About:</h3>
   <div>
     <p>💻 I'm an app developer, transforming ideas into digital reality.</p>
     <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
