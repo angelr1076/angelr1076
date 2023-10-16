@@ -1,4 +1,4 @@
-<div align="">
+<div align="center">
   <h1>👋 Angel Rodriguez</h1>
   <p>Making a difference one app at a time 🚀</p>
   <p>
@@ -27,6 +27,8 @@
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <!-- Add more languages and tools here -->
   </p>
+</div>
+<div>
   <h3>About:</h3>
   <div>
     <p>💻 I'm an app developer, transforming ideas into digital reality.</p>
