@@ -33,7 +33,4 @@
     <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
     <p>🌴 Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
   </div>
-  <p>
-    <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
-  </p>
 </div>
