@@ -6,16 +6,16 @@
   </p>
   <h3>Connect with me:</h3>
   <p>
-    <a href="https://www.angelrod.dev/" target="_blank">
+    <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
       <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
     </a>
-    <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank">
+    <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank" title="LinkedIn">
       <img src="https://img.icons8.com/bubbles/64/undefined/linkedin.png" alt="linkedin">
     </a>
-    <a href="https://github.com/angelr1076" target="_blank">
+    <a href="https://github.com/angelr1076" target="_blank" title="Github">
       <img src="https://img.icons8.com/bubbles/64/undefined/github.png" alt="github">
     </a>
-    <a href="mailto:angelrod@beachlife.email" target="_blank">
+    <a href="mailto:angelrod@beachlife.email" target="_blank" title="email">
       <img src="https://img.icons8.com/bubbles/64/undefined/email.png" alt="email">
     </a>
   </p>
