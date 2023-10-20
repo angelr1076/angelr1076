@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>👋 Angel Rodriguez</h1>
+  <h1>Angel Rodriguez</h1>
+  <h2>App Developer</h2>
   <p>Making a difference one app at a time 🚀</p>
   <p>
     <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png" width="150">
