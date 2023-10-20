@@ -29,9 +29,9 @@
   </p>
   <h3>About:</h3>
   <div>
-    <p>💻 I'm an app developer, transforming ideas into digital reality.</p>
-    <p>🌱 Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
-    <p>🌴 Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
+    <p>I'm an app developer, transforming ideas into digital reality.</p>
+    <p>Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
+    <p>Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
   </div>
 </div>
 
