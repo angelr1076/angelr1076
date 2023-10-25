@@ -34,5 +34,10 @@
     <p>Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
     <p>Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
   </div>
+  <div>
+      <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
+    <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">![image](https://github.com/angelr1076/angelr1076/assets/29229469/c80a17ed-b293-4d93-8b8b-e8788e39dcfe)
+
+  </div>
 </div>
 
