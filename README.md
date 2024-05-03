@@ -31,8 +31,8 @@
   <h3>About:</h3>
   <div style="display:flex;flex-direction:column;align-content:center;">
     <p>I'm an app developer, transforming ideas into digital reality.</p>
-    <p>Lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
-    <p>Let's connect and build something awesome, reach me @ devlife@beachlife.email</p>
+    <p>A lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
+    <p>You can reach me @ devlife@beachlife.email</p>
   </div>
   <div>
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
