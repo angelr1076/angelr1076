@@ -16,7 +16,7 @@
     <a href="https://github.com/angelr1076" target="_blank" title="Github">
       <img src="https://img.icons8.com/bubbles/64/undefined/github.png" alt="github">
     </a>
-    <a href="mailto:angelrod@beachlife.email" target="_blank" title="email">
+    <a href="mailto:node@beachlife.email" target="_blank" title="email">
       <img src="https://img.icons8.com/bubbles/64/undefined/email.png" alt="email">
     </a>
   </p>
