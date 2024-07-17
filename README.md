@@ -23,13 +23,15 @@
   <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
   <h3>🛠️ Languages and Tools</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-    <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
-    <img src="https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=html5&logoColor=black" alt="Html5"/>
-    <img src="https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=css3&logoColor=black" alt="Css3"/>
-    <!-- Add more languages and tools here -->
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+
   </p>
   <div>
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
