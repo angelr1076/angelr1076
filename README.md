@@ -7,7 +7,7 @@
     <p>Making a difference one app at a time 🚀</p>
     <p>I'm an app developer, transforming ideas into digital reality.</p>
     <p>A lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
-    <p>You can reach me @ node@beachlife.email</p>
+    <p>You can reach me at node@beachlife.email</p>
   </div>
   <h3>Connect with me:</h3>
   <p>
