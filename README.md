@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <p>
     <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721216088/Github%20Profile/appdev.png" width="1000">
   </p>
