@@ -1,10 +1,14 @@
 <div align="center">
-  <h1>Angel Rodriguez</h1>
-  <h3>App Developer</h3>
-  <p>Making a difference one app at a time 🚀</p>
   <p>
     <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721216088/Github%20Profile/appdev.png" width="1000">
   </p>
+    <h3>About:</h3>
+  <div style="display:flex;flex-direction:column;align-content:center;">
+    <p>Making a difference one app at a time 🚀</p>
+    <p>I'm an app developer, transforming ideas into digital reality.</p>
+    <p>A lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
+    <p>You can reach me @ devlife@beachlife.email</p>
+  </div>
   <h3>Connect with me:</h3>
   <p>
     <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
@@ -28,12 +32,6 @@
     <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
     <!-- Add more languages and tools here -->
   </p>
-  <h3>About:</h3>
-  <div style="display:flex;flex-direction:column;align-content:center;">
-    <p>I'm an app developer, transforming ideas into digital reality.</p>
-    <p>A lifelong learner, constantly expanding my knowledge in the vast world of programming.</p>
-    <p>You can reach me @ devlife@beachlife.email</p>
-  </div>
   <div>
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
       <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4"
