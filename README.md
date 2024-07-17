@@ -5,7 +5,7 @@
   <div>
     <p>As an application developer with over five years of experience, I have cultivated a robust skill set in creating innovative and efficient solutions for diverse business needs. Transitioning from a career as a classically trained chef to the tech world, I have harnessed my attention to detail, resilience, and teamwork skills to excel in the dynamic field of software development. My journey began with an intensive web development bootcamp, which equipped me with the necessary tools to quickly learn and adapt to new technologies. Throughout my career, I have worked with multiple companies, enhancing their operations through custom software solutions, integrating APIs, and automating workflows. I am driven by a passion for learning and problem-solving, consistently striving to develop applications that empower users and streamline processes. My background in both culinary arts and technology uniquely positions me to bring a meticulous and creative approach to my projects, ensuring that each solution is both functional and impactful.</p>
   </div>
-  <h3>🤝 Connect with me:</h3>
+  <h3>🤝 Connect with me</h3>
   <p>
     <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
       <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
@@ -21,7 +21,7 @@
     </a>
   </p>
   <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
-  <h3>🛠️ Languages and Tools:</h3>
+  <h3>🛠️ Languages and Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
     <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
