@@ -23,8 +23,8 @@
   <!-- Icons by icons8.com <https://icons8.com/icons/bubbles> -->
   <h3>🛠️ Languages and Tools</h3>
   <p>
-    <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logoColor=white" alt="React"/>
+    <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
     <img src="https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
     <img src="https://img.shields.io/badge/Html5-orange?style=for-the-badge&logo=html5&logoColor=black" alt="Html5"/>
     <img src="https://img.shields.io/badge/CSS3-red?style=for-the-badge&logo=css3&logoColor=black" alt="Css3"/>
