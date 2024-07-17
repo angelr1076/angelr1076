@@ -3,7 +3,7 @@
   <h3>App Developer</h3>
   <p>Making a difference one app at a time 🚀</p>
   <p>
-    <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png" width="150">
+    <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721216088/Github%20Profile/appdev.png" width="150">
   </p>
   <h3>Connect with me:</h3>
   <p>
