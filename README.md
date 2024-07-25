@@ -1,7 +1,8 @@
 <div>
   <div style="display:flex;flex-direction:column;align-items:center;">
     <p>
-      <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721650115/Github%20Profile/boxysvg2.png">
+      <!-- <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721650115/Github%20Profile/boxysvg2.png"> -->
+      <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png" width="150">
     </p>  
     <div>
       <p>As an application developer with over five years of experience, I have developed a strong knack for crafting creative and efficient solutions for various business needs. Transitioning from a career as a classically trained chef to the tech world, I have polished my attention to detail, resilience, and teamwork skills. My journey in programming began with an intensive web development bootcamp, which equipped me with the necessary tools to quickly learn and adapt to new technologies. Throughout my career, I have worked with multiple companies, enhancing their operations through custom software solutions, integrating APIs, and automating workflows. I am driven by a passion for learning and problem-solving, consistently striving to develop applications that empower users and streamline processes.</p>
@@ -42,7 +43,7 @@
       </div>
     </div>
   </div>
-  <div style="display:flex;justify-content:space-evenly;margin-top:10px;">
+  <div style="display:flex;justify-content:space-evenly;">
   <div>
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
       <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
