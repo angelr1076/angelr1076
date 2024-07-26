@@ -1,7 +1,7 @@
 <div>
   <div>
   <div style="display:flex;justify-content:center;">
-    <p>
+    <p align="center">
       <!-- <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721650115/Github%20Profile/boxysvg2.png"> -->
       <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png">
     </p>  
