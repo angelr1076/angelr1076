@@ -1,14 +1,18 @@
 <div>
-  <div style="display:flex;flex-direction:column;align-items:center;">
+  <div>
+  <div style="display:flex;justify-content:center;">
     <p>
       <!-- <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1721650115/Github%20Profile/boxysvg2.png"> -->
-      <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png" width="150">
+      <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png">
     </p>  
+  </div>
     <div>
-      <p>As an application developer with over five years of experience, I have developed a strong knack for crafting creative and efficient solutions for various business needs. Transitioning from a career as a classically trained chef to the tech world, I have polished my attention to detail, resilience, and teamwork skills. My journey in programming began with an intensive web development bootcamp, which equipped me with the necessary tools to quickly learn and adapt to new technologies. Throughout my career, I have worked with multiple companies, enhancing their operations through custom software solutions, integrating APIs, and automating workflows. I am driven by a passion for learning and problem-solving, consistently striving to develop applications that empower users and streamline processes.</p>
+      <p>
+      As an application developer with over five years of experience, I have developed a strong knack for crafting creative and efficient solutions for various business needs. Transitioning from a career as a classically trained chef to the tech world, I have polished my attention to detail, resilience, and teamwork skills. My journey in programming began with an intensive web development bootcamp, which equipped me with the necessary tools to quickly learn and adapt to new technologies. Throughout my career, I have worked with multiple companies, enhancing their operations through custom software solutions, integrating APIs, and automating workflows. I am driven by a passion for learning and problem-solving, consistently striving to develop applications that empower users and streamline processes.
+      </p>
     </div>
   </div>
-  <div style="display:flex;flex-direction:row;justify-content:space-evenly;">
+  <div style="display:flex;justify-content:space-evenly;">
     <div style="display:flex;flex-direction:column;">
       <h3>🤝 Connect with me</h3>
         <p>
