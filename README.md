@@ -1,6 +1,6 @@
 <div>
   <div>
-  <div style="display: flex; justify-content: center;">
+  <div align="center">
     <h1 style="font-weight:bold;">Angel Rodriguez</h1>
   </div>
     <div style="display:flex;justify-content:center;">
