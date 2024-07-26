@@ -1,5 +1,8 @@
 <div>
   <div>
+  <div style="display: flex; justify-content: center;">
+    <h1 style="font-weight:bold;">Angel Rodriguez</h1>
+  </div>
     <div style="display:flex;justify-content:center;">
       <p align="center">
         <img src="https://res.cloudinary.com/angelrodriguez/image/upload/v1680185483/bitmojime.png">
