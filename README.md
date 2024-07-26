@@ -15,7 +15,7 @@
   </div>
   <div style="display:flex;justify-content:space-evenly;flex-wrap:wrap;">
     <!-- Connect with me section -->
-    <div style="">
+    <div style="display:flex;flex-direction:column;align-items:center;flex:1;min-width:300px;">
       <h3>🤝 Connect with me</h3>
       <p>
         <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
@@ -33,7 +33,7 @@
       </p>
     </div>
   <!-- Languages and Tools section -->
-  <div style="">
+  <div style="display:flex;flex-direction:column;align-items:center;flex:1;min-width:300px;">
     <h3>🛠️ Languages and Tools</h3>
     <div>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
