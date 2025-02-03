@@ -57,7 +57,7 @@
   <div style="display:flex;justify-content:space-evenly;">
     <div>
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&count_private=true">
-      <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&hide_border=true&show_icons=true&langs_count=4">
+      <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&layout=donut-vertical&hide_border=true&show_icons=true&langs_count=6">
     </div>
   </div>
 </div>
