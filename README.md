@@ -56,7 +56,6 @@
   <!-- Github stats -->
   <div style="display:flex;justify-content:space-evenly;">
     <div>
-      rank_icon=github
       <img alt="Angel's GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=angelr1076&theme=noctis_minimus&hide_border=true&hide_rank_level&show_icons=true&rank_icon=github&count_private=true">
       <img alt="Angel's GitHub Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelr1076&theme=noctis_minimus&layout=compact&hide_border=true&show_icons=true&langs_count=6">
     </div>
