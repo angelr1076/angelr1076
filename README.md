@@ -16,27 +16,27 @@
       </div>
     </div>
   </div>
-  <div style="display:flex;justify-content:space-evenly;flex-wrap:wrap;">
-    <!-- Connect with me section -->
-    <div style="display:flex;flex-direction:column;align-items:center;flex:1;min-width:300px;">
-      <h3>🤝 Connect with me</h3>
-      <p>
-        <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
-          <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
-        </a>
-        <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank" title="LinkedIn">
-          <img src="https://img.icons8.com/bubbles/64/undefined/linkedin.png" alt="linkedin">
-        </a>
-        <a href="https://github.com/angelr1076" target="_blank" title="Github">
-          <img src="https://img.icons8.com/bubbles/64/undefined/github.png" alt="github">
-        </a>
-        <a href="mailto:node@beachlife.email" target="_blank" title="email">
-          <img src="https://img.icons8.com/bubbles/64/undefined/email.png" alt="email">
-        </a>
-      </p>
-    </div>
+  <div style="display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:20px;text-align:center;">
+  <!-- Connect with me section -->
+  <div style="display:flex;flex-direction:column;align-items:center;min-width:300px;">
+    <h3>🤝 Connect with me</h3>
+    <p>
+      <a href="https://www.angelrod.dev/" target="_blank" title="angelrod.dev">
+        <img src="https://img.icons8.com/bubbles/64/undefined/domain.png" alt="website">
+      </a>
+      <a href="https://www.linkedin.com/in/angelrodriguezlead/" target="_blank" title="LinkedIn">
+        <img src="https://img.icons8.com/bubbles/64/undefined/linkedin.png" alt="linkedin">
+      </a>
+      <a href="https://github.com/angelr1076" target="_blank" title="Github">
+        <img src="https://img.icons8.com/bubbles/64/undefined/github.png" alt="github">
+      </a>
+      <a href="mailto:node@beachlife.email" target="_blank" title="email">
+        <img src="https://img.icons8.com/bubbles/64/undefined/email.png" alt="email">
+      </a>
+    </p>
+  </div>
   <!-- Languages and Tools section -->
-  <div style="display:flex;flex-direction:column;align-items:center;flex:1;min-width:300px;">
+  <div style="display:flex;flex-direction:column;align-items:center;min-width:300px;">
     <h3>🛠️ Languages and Tools</h3>
     <div>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -52,7 +52,8 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
     </div>
   </div>
-  </div>
+</div>
+
   <!-- Github stats -->
   <div style="display:flex;justify-content:space-evenly;">
     <div>
